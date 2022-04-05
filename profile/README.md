@@ -8,6 +8,10 @@ TrustedFirmware.org is comprised of multiple projects. These projects each have 
 * Mbed TLS organziation is [located here](https://github.com/Mbed-TLS)
 * OP-TEE organziation is [located here](https://github.com/OP-TEE)
 * Trusted Services is [located here](https://github.com/Trusted-Services)
+* The Hafnium organization is [located here](https://github.com/orgs/TF-Hafnium)
+* TrustedFirmware Open CI organization is [located here](https://github.com/TF-OpenCI)
+* The TF-RMM organization is [located here](https://github.com/TF-RMM)
+* The TF-Shared organization is [located here](https://github.com/TF-Shared)
 * TrustedFirmware website repository is [located here](https://github.com/TrustedFirmwareWebsite/website)
 
 If interested if further information, please send a note to enquiries@trustedfirmware.org
