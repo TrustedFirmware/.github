@@ -12,7 +12,7 @@ TrustedFirmware.org is comprised of multiple projects. These projects each have 
 * TrustedFirmware Open CI organization is [located here](https://github.com/TF-OpenCI)
 * The TF-RMM organization is [located here](https://github.com/TF-RMM)
 * The TF-Shared organization is [located here](https://github.com/TF-Shared)
-* TrustedFirmware website repository is [located here](https://github.com/TrustedFirmwareWebsite/website)
+* TrustedFirmware website repository is [located here](https://github.com/TrustedFirmwareWebsite)
 
 If interested if further information, please send a note to enquiries@trustedfirmware.org
 
