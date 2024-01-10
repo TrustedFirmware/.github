@@ -6,6 +6,7 @@ TrustedFirmware.org is comprised of multiple projects. These projects each have 
 * TrustedFirmware-A organization is [located here](https://github.com/TrustedFirmware-A)
 * TrustedFirmware-M organization is [located here](https://github.com/TrustedFirmware-M)
 * Mbed TLS organization is [located here](https://github.com/Mbed-TLS)
+* MCUboot repo is [located here](https://github.com/mcu-tools/mcuboot)
 * OP-TEE organization is [located here](https://github.com/OP-TEE)
 * Trusted Services organization is [located here](https://github.com/Trusted-Services)
 * Hafnium organization is [located here](https://github.com/orgs/TF-Hafnium)
